@@ -1,0 +1,22 @@
+{
+  "name": "intro-nodejs-backend",
+  "version": "0.9.0",
+  "description": "Introdución a NodeJS backend: ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcardm/intro-nodejs-backend.git"
+  },
+  "author": "Alberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alcardm/intro-nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/alcardm/intro-nodejs-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
